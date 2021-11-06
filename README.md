@@ -1,4 +1,4 @@
-# Forecasting-using-Time-Series-Analysis
+# Forecasting using Time Series Analysis
 ### Discussion and application of ARIMA and ETS models on stock prices
 
 This paper analyzes the suitability of time series analysis models to forecast stock prices. For the
