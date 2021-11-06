@@ -1,6 +1,5 @@
 # Forecasting-using-Time-Series-Analysis
-
-## Discussion and application of ARIMA and ETS models on stock prices
+### Discussion and application of ARIMA and ETS models on stock prices
 
 This paper analyzes the suitability of time series analysis models to forecast stock prices. For the
 analysis, the stock prices of Microsoft are collected from 1987, around the time when the company
